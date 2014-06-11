@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Heroku buildpack: Clojure + PhantomJS
 
 This is a Heroku buildpack for mix Clojure and PhantomJS apps.
